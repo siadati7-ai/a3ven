@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "a3ven",
+  "compatibility_date": "2026-06-08",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "Htmel"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
